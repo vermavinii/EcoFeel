@@ -16,7 +16,7 @@ EcoFeel explores the intersection of audio processing and emotional intelligence
 - **Model Training**: Machine learning models are trained on these features to learn patterns associated with different emotions.
 - **Emotion Prediction**: Once trained, the model can predict the emotion of new audio samples based on learned patterns.
 
-## Setup 🔥
+## Setup 
 
 1. **Fork the Repo**:
    - Fork this repository to your own GitHub account by clicking the "Fork" button at the top right of this page.
